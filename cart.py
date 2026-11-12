@@ -14,3 +14,8 @@ def total(prices):
 
 def apply_discount(prices, percent):
     return [p * (1 - percent / 100) for p in prices]
+
+
+def count(prices):
+    """Number of items in the cart."""
+    return len(prices)
