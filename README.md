@@ -1,4 +1,2 @@
 # Shop - Ayoub \& Djewed
 
-
-
